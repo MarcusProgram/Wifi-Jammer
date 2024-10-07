@@ -13,3 +13,9 @@ sudo apt install mdk3
 ```bash
 sudo pip install -r requirements.txt
 ```
+
+А дальше наслаждаетесь скриптом:
+
+```bash
+sudo python3 main.py
+```
