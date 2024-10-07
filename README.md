@@ -4,7 +4,8 @@
 ___
 
 ## Screenshots
-
+<img src='https://github.com/MarcusProgram/Wifi-Jammer/blob/main/terminal.jpg'/>
+<img src='https://github.com/MarcusProgram/Wifi-Jammer/blob/main/phone.jpg' widht="200px" height="300px"/>
 
 ## Installation
 Для начала, установите `mdk3` с помощью `apt`:
