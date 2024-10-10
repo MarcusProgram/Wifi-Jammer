@@ -16,7 +16,7 @@ sudo apt install mdk3
 
 Потом клонируем гит с помощью `git clone`:
 ```bash
-https://github.com/MarcusProgram/Wifi-Jammer.git
+git clone https://github.com/MarcusProgram/Wifi-Jammer.git
 ```
 
 Далее, установите все необходимые Python зависимости из файла `requirements.txt`:
